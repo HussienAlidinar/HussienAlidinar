@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HussienAlidinar ,radiographer,sonographer  
+- 👋 Hi, I’m Hussien Alidinar ,radiographer,sonographer  
 - 👀 I’m interested in medical imaging processing ,ML,AI
 - 🌱 I’m currently learning paython 
 - 💞️ I’m looking to collaborate on medical imaging processing and AI in medical imaging
