@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hussien Alidinar ,radiographer,sonographer  
 - 👀 I’m interested in medical imaging processing ,ML,AI
-- 🌱 I’m currently learning paython 
+- 🌱 I’m currently python program learner 
 - 💞️ I’m looking to collaborate on medical imaging processing and AI in medical imaging
 - 📫 How to reach me : dinarhussien@gmail.com
 
